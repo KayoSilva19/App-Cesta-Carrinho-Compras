@@ -2,6 +2,7 @@
 <img align="center" alt="REACT-NATIVE" 
         src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <p>PROJETO EM REACT-NATIVE</p>
+<p>Utilizando Expo</p>
 <hr>
 </br>
     <h3 aling="center"> Projeto realizado seguindo aulas!</h3>
